@@ -3,7 +3,7 @@
 **Bubble Chart with**| **May 10, 2018** | **Iran's Cities Population** | **Contributors:** 
 [Majid Farahani](https://farahanimajid.github.io/barchart/)
 
-![](img/bubble.PNG)
+![](img/bubble.png)
 
 
 
