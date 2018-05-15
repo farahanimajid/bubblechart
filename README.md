@@ -1,6 +1,6 @@
 # Bubble Chart 
 
-**Bubble Chart with**| **May 10, 2018** | **Iran's Cities Population** | **Contributors:** 
+**Bubble Chart**| **May 10, 2018** | **Iran's Cities Population** | **Contributors:** 
 [Majid Farahani](https://farahanimajid.github.io/barchart/)
 
 ![](img/bubble.png)
